@@ -1,0 +1,1001 @@
+nombre_cliente;opinion;valoracion;fecha;id_hamburguesa
+Ignacio Parra Vila;Muy rica;10;23/10/2024;2
+Isabel Revuelta Núñez;De lujo;9;14/06/2024;3
+Santiago Domingo Casanova;De lujo;9;06/07/2024;17
+Blanca Moro ;Me encanta;10;26/11/2024;10
+David Sierra Vara;¡Qué buena!;9;16/06/2024;16
+Ricardo Valero Lozano;Rica rica;9;16/12/2024;18
+Raquel Mustafa Giménez;Increible;9;03/06/2024;21
+Soledad Melian ;De lujo;9;25/04/2024;8
+Teresa Fuentes Sole;Espectacular;9;10/01/2024;3
+Gloria Vega Prieto;¡Increíble hulio!;10;01/03/2024;1
+María Soledad Bernabéu Vega;Riquísima;9;18/07/2024;9
+Gabriel Borras Sempere;Me encanta;10;24/01/2024;2
+Elisa Mateo Rubio;¡Qué buena!;10;20/10/2024;3
+Claudia Expósito Ferreira;No me canso de comerla;10;05/11/2024;3
+Borja Antolín Flores;Impresionante;9;25/10/2024;5
+Raquel Esparza Vidal;;10;14/09/2024;11
+María Ángeles Lozano Prada;¡Qué buena!;10;28/12/2024;12
+Ignacio Abad Franco;Increible;10;01/03/2024;14
+Claudia Aguilar Villar;Ummmm... deliciosa;10;05/11/2024;8
+Santiago Afonso Abad;Muy buena;10;26/01/2024;5
+María Ángeles Mas Peris;Rica rica;10;27/05/2024;16
+Tomas Lahsen Santos;Muy buena;9;17/08/2024;14
+Gabriel Hernando ;Increible;9;25/04/2024;8
+Belén Kaddur ;Riquísima;9;29/09/2024;17
+German Escribano ;Ummmm... deliciosa;9;15/12/2024;16
+Irene Soria Alfaro;De lujo;9;05/10/2024;17
+Begoña Cruz Gimeno;Muy buena;10;06/09/2024;8
+Fernando Cobo Cruz;Impresionante;10;17/09/2024;1
+Juan Antonio Blanco Ceballos;Impresionante;9;01/02/2024;12
+Joel Lizarraga Melian;Me encanta;9;14/02/2024;2
+María Teresa Herrera ;Ummmm... deliciosa;9;21/11/2024;7
+Juan José Haddu Pascual;Rica rica;10;27/09/2024;21
+Félix Hevia Quintas;De lujo;9;12/03/2024;19
+David Rovira Armas;De lujo;10;02/10/2024;15
+Ignacio Gonzalo ;No me canso de comerla;10;09/04/2024;8
+Consuelo Sánchez ;Ummmm... deliciosa;10;20/12/2024;10
+Marina Ramos Vaquero;Ummmm... deliciosa;9;21/08/2024;24
+Rubén Merino Sáez;Ummmm... deliciosa;10;23/02/2024;18
+Diego Maldonado Zabalza;Ummmm... deliciosa;10;28/11/2024;14
+Josep Peña Crespo;Rica rica;10;20/02/2024;24
+Mar Hernández Ochoa;Muy buena;10;01/01/2024;22
+Raquel Arce ;Riquísima;10;06/02/2024;22
+Ana Isabel Hamed ;Espectacular;9;17/03/2024;24
+Sandra Ojeda ;Muy buena;10;29/01/2024;24
+Eugenia Ferreiro ;Me encanta;10;08/12/2024;6
+Susana Lizarraga Cortes;Increible;10;26/10/2024;16
+Noelia Abdeselam Guillen;Muy buena;9;21/11/2024;14
+Pilar Acosta Salgado;Muy buena;10;12/11/2024;23
+Aurora Goñi Diaz;;9;03/03/2024;11
+Alfredo Zabalza Suarez;De lujo;10;02/08/2024;18
+Emilio Quintero Ruiz;Impresionante;9;20/07/2024;23
+Alicia Ferrero Yanes;Muy rica;9;10/10/2024;7
+Roció Benito Arribas;Riquísima;9;27/03/2024;21
+José Ignacio Sosa Yanes;Me encanta;9;25/04/2024;9
+Catalina Cruz Casal;¡Qué buena!;9;27/08/2024;6
+Clara Rojas Abderrahaman;¡Qué buena!;10;14/06/2024;22
+Cristian Arenas ;Impresionante;10;13/05/2024;7
+Irene Borras Prieto;Muy rica;10;15/10/2024;19
+Juan Manuel Duran Vila;Riquísima;9;12/01/2024;22
+Elisa Peláez ;¡Increíble hulio!;10;15/01/2024;14
+Aitor Gallego Salmerón;Espectacular;9;16/03/2024;20
+Amparo Mora Alemán;Espectacular;9;04/02/2024;24
+Luisa Sanchis ;Espectacular;10;11/01/2024;18
+Nerea Mora Arias;Ummmm... deliciosa;9;17/11/2024;8
+José Luis Moran Collado;Impresionante;9;24/02/2024;4
+Héctor Valencia Villar;Espectacular;9;28/02/2024;6
+Víctor Manuel Villarroya ;¡Increíble hulio!;10;05/02/2024;12
+Ainhoa Sáez Rey;Riquísima;9;02/09/2024;5
+Jesús Vidal ;Espectacular;10;19/04/2024;19
+Josefa Trujillo ;Ummmm... deliciosa;10;24/10/2024;13
+María Mas Benaisa;Rica rica;9;19/01/2024;6
+Daniel Blasco ;Impresionante;10;11/05/2024;22
+Oscar Plasencia ;Muy buena;10;17/02/2024;7
+Rubén Sosa Amorós;Impresionante;10;30/06/2024;14
+Lucas Hamed Bermejo;Espectacular;10;06/10/2024;23
+Inés Arias Pereira;¡Qué buena!;9;20/11/2024;12
+Luis Miguel Domínguez Dorta;De lujo;9;12/12/2024;13
+Noelia Collado Mateos;Muy rica;9;24/10/2024;3
+María Concepción Iglesias Vara;Ummmm... deliciosa;10;04/06/2024;25
+Miguel Antón ;Increible;9;22/01/2024;14
+Lucia Redondo Rincón;Me encanta;9;08/04/2024;13
+María Concepción Abdeslam Sabaté;Rica rica;10;30/06/2024;11
+Jorge Ahmed Vicente;Rica rica;10;29/04/2024;4
+María Teresa Pardo ;No me canso de comerla;9;31/03/2024;20
+Catalina Sáez Ferreiro;Me encanta;9;20/01/2024;3
+Josep Guerrero Zapico;Rica rica;10;18/10/2024;15
+José María Quintero Lafuente;De lujo;9;22/12/2024;10
+María Concepción Armendáriz Fuentes;Rica rica;9;02/10/2024;10
+Cristina Ríos Hernández;Espectacular;9;06/10/2024;20
+Montserrat Perdomo ;Rica rica;10;26/10/2024;13
+Inés Mimun Tébar;Espectacular;9;28/04/2024;25
+María Mercedes Hossain Cabrera;Increible;10;09/08/2024;4
+Miguel Esteban Barbero;No me canso de comerla;10;04/03/2024;23
+Silvia Bernal Mohand;Rica rica;10;20/06/2024;3
+Sonia Hassan Cruz;Muy buena;10;12/05/2024;1
+Olga Ramírez Abdelkader;De lujo;9;09/08/2024;15
+Daniel Nieto Melian;Increible;9;22/12/2024;24
+Aurora Herrero Velasco;¡Increíble hulio!;10;01/03/2024;16
+Susana Martí ;Ummmm... deliciosa;9;15/12/2024;4
+Esteban Prieto ;De lujo;10;07/12/2024;2
+Teresa Borras ;Riquísima;10;11/05/2024;5
+Juan Elizalde Nieto;¡Qué buena!;10;14/04/2024;16
+Magdalena Alfaro Aguirre;De lujo;9;01/05/2024;18
+Francisco Royo ;¡Increíble hulio!;10;07/10/2024;2
+Teresa San José Valencia;¡Increíble hulio!;9;17/03/2024;17
+Félix Rodrigo Salmerón;Me encanta;9;29/09/2024;16
+Juana Gil ;Impresionante;9;30/01/2024;25
+José Ángel Fuertes Mateos;Riquísima;9;15/05/2024;2
+Ana María Abdel Lah Aznar;No me canso de comerla;10;05/01/2024;25
+Teresa Roig ;De lujo;10;30/11/2024;23
+Marta de la Fuente ;Rica rica;9;30/01/2024;13
+María Abascal Ramos;No me canso de comerla;10;22/06/2024;13
+Sergio Padilla Tejedor;Me encanta;9;29/06/2024;3
+María Antonia San Martin Betancor;¡Increíble hulio!;9;24/10/2024;25
+José Miguel Trujillo ;Riquísima;9;20/08/2024;3
+Anna Hernando Arenas;Espectacular;9;26/10/2024;24
+Xavier Alquezar Pardo;Increible;10;28/08/2024;20
+Manuela Cid Herrera;Impresionante;10;01/03/2024;15
+Eva Puente Herrero;¡Increíble hulio!;9;04/02/2024;12
+Eugenio Paz Peláez;Muy buena;9;10/03/2024;24
+Inmaculada Soriano Losada;De lujo;9;14/05/2024;24
+Jorge Yanes Lorenzo;¡Qué buena!;9;13/03/2024;18
+María Josefa Mohand Santamaria;Impresionante;10;25/03/2024;7
+Blanca Cruz San José;Rica rica;10;04/07/2024;11
+Ismael Abdeslam Lozano;De lujo;9;17/11/2024;5
+Milagros Ramírez Casado;Riquísima;9;13/01/2024;13
+Isaac Sanz Tejedor;No me canso de comerla;9;23/03/2024;19
+Nuria Vaquero ;Riquísima;9;23/07/2024;10
+Rodrigo Mateo ;Muy buena;10;26/12/2024;16
+Jonathan Prieto Rincón;¡Qué buena!;10;10/01/2024;7
+Susana Valero ;De lujo;9;03/07/2024;10
+José Antonio Mimoun Diéguez;Rica rica;10;15/07/2024;16
+Aurora Rivero Martí;Muy rica;9;22/01/2024;20
+Carmen Torre Delgado;Muy buena;9;20/07/2024;12
+David Ruiz Ochoa;Rica rica;9;30/04/2024;20
+Ana Isabel Carmona Hamed;Muy rica;9;18/11/2024;8
+Luz Rodrigo Montes;Espectacular;10;30/06/2024;18
+Raúl Laarbi Morales;Increible;9;28/11/2024;11
+Sonia Macho Muñiz;Rica rica;9;13/01/2024;23
+Pau Armas Betancor;Me encanta;10;06/05/2024;13
+Alfonso Abdel Lah ;Impresionante;10;12/02/2024;11
+Francisco Javier de Andrés Al Lal;De lujo;10;17/09/2024;10
+Julián Gascón Roig;No me canso de comerla;9;29/12/2024;10
+Miguel Ángel Sosa ;Me encanta;9;07/11/2024;17
+Jaime Afonso Arribas;No me canso de comerla;10;02/06/2024;13
+Rosario Carballo Fernández;De lujo;9;29/08/2024;10
+Alicia Peris Antón;¡Increíble hulio!;10;24/05/2024;18
+María Cristina Maldonado Abderrahaman;De lujo;9;17/01/2024;11
+María Antonia Galán ;Increible;9;01/03/2024;17
+Beatriz Zabalza Mateos;¡Qué buena!;10;20/04/2024;25
+María Isabel Ojeda Gil;No me canso de comerla;10;26/08/2024;21
+Vanesa Lozano Romera;No me canso de comerla;9;27/12/2024;25
+Ramon Gracia Aguirre;Riquísima;10;19/07/2024;11
+Carla Franco Echeverria;Increible;10;06/11/2024;9
+José Manuel Sole Martin;Impresionante;10;13/05/2024;6
+Alfonso Rodrigo Marrero;¡Qué buena!;9;04/05/2024;1
+Rosario Araujo Arias;Impresionante;9;20/10/2024;22
+Josefa Romero ;Muy buena;9;25/01/2024;21
+Lorena Montoya ;Espectacular;10;22/03/2024;8
+Tomas Jiménez ;¡Increíble hulio!;10;16/11/2024;1
+Lorena Padilla ;Muy buena;10;23/06/2024;19
+Olga Mira Valero;¡Qué buena!;9;11/07/2024;9
+Jordi Pascual Santamaria;¡Increíble hulio!;10;10/05/2024;24
+María Mar Velasco Esparza;Ummmm... deliciosa;10;30/07/2024;23
+Francisca Novoa ;Ummmm... deliciosa;9;15/06/2024;3
+Darío Ahmed Román;Riquísima;9;11/07/2024;12
+María Josefa Parra Zabalza;De lujo;10;04/02/2024;24
+Mónica Cuervo Crespo;Espectacular;9;31/10/2024;18
+Darío Borras ;No me canso de comerla;10;06/05/2024;6
+Clara Escudero Bernabéu;Rica rica;9;11/10/2024;8
+María Nieves Rovira ;Increible;9;02/03/2024;22
+Jordi Rivas Ferrer;De lujo;9;16/02/2024;21
+Héctor Diaz Dris;Impresionante;10;26/10/2024;17
+Miriam Azcona ;Riquísima;10;12/07/2024;7
+Sergio Angulo Cabrera;Muy buena;9;05/08/2024;9
+Marta Bermejo ;¡Qué buena!;10;15/01/2024;14
+Alfredo Jiménez ;Rica rica;9;06/12/2024;2
+María Josefa Polo Angulo;Me encanta;9;28/05/2024;1
+Alfredo Lahoz Gago;De lujo;9;08/08/2024;21
+Pau Cabrera Laarbi;Impresionante;9;26/06/2024;8
+Valeria Antuña Cuervo;¡Qué buena!;10;09/11/2024;19
+José Antonio Redondo ;Espectacular;10;19/09/2024;11
+Adrián Pastor ;Ummmm... deliciosa;10;22/04/2024;1
+Ismael Abselam Muñiz;No me canso de comerla;9;14/09/2024;3
+María Cristina Losada Lahoz;Espectacular;9;26/04/2024;3
+Félix Royo Gracia;Ummmm... deliciosa;9;04/03/2024;4
+Julia Roig Vicente;De lujo;9;28/07/2024;21
+Lourdes Pérez Amador;De lujo;10;10/09/2024;18
+Josefa Lahsen Arribas;¡Increíble hulio!;10;24/11/2024;17
+Natalia Falcon ;Impresionante;10;25/11/2024;14
+Sonia Mateos Fuentes;De lujo;10;18/04/2024;21
+Beatriz Laarbi ;Rica rica;9;21/02/2024;21
+Raúl Melian ;Espectacular;9;28/01/2024;6
+Diego Paz Tébar;Impresionante;10;20/04/2024;10
+Diego Roig ;Riquísima;10;13/07/2024;23
+Montserrat Marcos Rubio;Impresionante;10;27/10/2024;23
+Darío Arguelles Ochoa;¡Increíble hulio!;10;09/05/2024;11
+Teresa López Guerrero;Espectacular;9;10/03/2024;17
+Rosario Duran Romero;Espectacular;10;22/09/2024;24
+Rosa María Ahmed Azcona;Riquísima;9;04/07/2024;18
+Ismael Gil Pinedo;No me canso de comerla;9;05/08/2024;25
+Rafael Tomas Vázquez;Rica rica;10;15/06/2024;13
+Arturo Tejedor Barbero;Espectacular;10;16/12/2024;16
+Sandra Pazos Perdomo;¡Increíble hulio!;9;09/10/2024;10
+Gregorio Sancho Maanan;No me canso de comerla;10;07/05/2024;16
+Martin Miralles Hossain;Impresionante;10;15/06/2024;14
+Alexander Rincón Lahoz;Increible;9;05/05/2024;19
+Albert Dorta Herrera;¡Qué buena!;10;12/12/2024;3
+José Carlos Gonzalo Sosa;Impresionante;10;17/10/2024;15
+Marta Redondo Padrón;Muy buena;9;21/07/2024;20
+María Josefa Rial Antolín;Riquísima;10;02/02/2024;2
+Joan Moya Goñi;Ummmm... deliciosa;10;10/10/2024;14
+María Aguado Moran;Espectacular;9;14/08/2024;6
+Joaquín Fuentes Blanco;Riquísima;10;27/03/2024;13
+Mercedes Benítez Pardo;Rica rica;10;25/03/2024;21
+Francisco Javier Sánchez Mesa;Espectacular;9;05/05/2024;21
+Mario Abad ;No me canso de comerla;10;16/02/2024;5
+Ignacio Costas Uriarte;De lujo;9;16/09/2024;21
+María Nieves Borras Sanz;Muy rica;9;04/05/2024;7
+Iván Gallego Padilla;Me encanta;10;16/04/2024;18
+Javier Lahsen Mimon;Rica rica;10;07/06/2024;5
+Ramon Ortiz de Zarate León;Muy rica;10;13/10/2024;14
+Olga Vila Tébar;Increible;9;30/10/2024;13
+Jordi Haddu ;Me encanta;10;16/12/2024;19
+Juana de la Cruz Duran;Muy buena;10;09/09/2024;18
+María Isabel Giménez Antolín;Ummmm... deliciosa;9;28/02/2024;1
+María Carmen Haddu Hamed;Muy rica;9;02/12/2024;7
+Alba Mira Miranda;¡Qué buena!;10;04/11/2024;10
+Francisco Javier Martí ;Me encanta;10;26/12/2024;15
+Marta Sabaté de Pablos;Increible;9;05/03/2024;7
+José Miguel Herrera Diez;Impresionante;10;16/06/2024;12
+Asunción Bernabéu Santana;¡Qué buena!;9;08/01/2024;15
+Aurora Diaz Moya;Increible;9;30/12/2024;4
+Marcos Prada Ramírez;Me encanta;10;13/06/2024;17
+Mar Montoya Blázquez;No me canso de comerla;10;28/11/2024;25
+Marco Manzano ;Espectacular;10;13/11/2024;20
+Aurora Ochoa Otero;No me canso de comerla;9;16/03/2024;8
+Miguel Uriarte Ruiz;Ummmm... deliciosa;10;03/11/2024;20
+Ignacio Bernabéu Pereira;Rica rica;9;07/11/2024;12
+María Soledad Sánchez Goñi;No me canso de comerla;10;06/07/2024;2
+Julio Menéndez ;Espectacular;10;08/01/2024;16
+Carla Villarroya ;Muy buena;10;20/10/2024;7
+Lucas Tahiri Segura;¡Qué buena!;10;02/05/2024;3
+Daniel Roca Sancho;Ummmm... deliciosa;9;12/09/2024;9
+Adrián Luis Morales;Ummmm... deliciosa;9;22/03/2024;8
+María Dolores Flores Echeverria;Espectacular;10;30/04/2024;16
+Ana Belén Peláez ;Riquísima;10;07/02/2024;22
+Christian Duran Mohamed;Me encanta;10;01/04/2024;14
+Lucas Marín Ferrer;Ummmm... deliciosa;10;07/06/2024;2
+Valentina Redondo de Frutos;Muy rica;9;09/03/2024;5
+German Lahsen ;Bueeeenooooo;7;09/04/2024;4
+Emilio Moreno Abdel Lah;Bueeeenooooo;7;26/03/2024;11
+José María Afonso ;Buena;8;09/09/2024;5
+Esperanza Roca Quintana;Bastante buena;8;23/06/2024;9
+Jaime Maanan Esteban;Bastante buena;8;19/03/2024;23
+Magdalena Romera ;Bastante buena;7;28/11/2024;19
+María Jesús Macho ;Me supo mejor la otra vez;7;15/01/2024;25
+Nerea Granda Echevarría;Bastante buena;7;02/12/2024;4
+Samuel Granda Sancho;Bueeeenooooo;7;19/05/2024;22
+Magdalena Ferrero Laarbi;Bastante buena;7;29/02/2024;24
+Montserrat Mateos ;No está mal;7;12/05/2024;13
+Pau Goñi Barros;No estaba nada mal;8;15/01/2024;4
+Patricia Casado ;Bueeeenooooo;8;01/09/2024;24
+Sara Amorós Guillen;Me supo mejor la otra vez;8;04/07/2024;2
+Rubén Arguelles Mustafa;Bastante buena;7;22/06/2024;2
+Adrián Salazar Dorta;Me supo mejor la otra vez;7;10/04/2024;10
+Andrea Medina ;Me supo mejor la otra vez;8;29/01/2024;5
+Clara Arranz Falcon;No está mal;8;18/09/2024;5
+Raúl Fernández Diego;No estaba nada mal;8;15/05/2024;8
+María Jesús Alfaro Izquierdo;Buena;7;14/05/2024;4
+Esther Villegas Carrera;Bastante buena;7;25/08/2024;8
+Virginia Rivas ;Bueeeenooooo;8;21/10/2024;1
+Mario Pastor Vargas;Bastante buena;7;28/08/2024;15
+Marta Alemán Abascal;Bastante buena;8;26/07/2024;22
+Emilia Cuesta de Miguel;No estaba nada mal;8;28/12/2024;9
+Ana Mora Perdomo;Bastante buena;7;23/08/2024;15
+Cristina Ahmed Roca;Un gran acierto;8;26/06/2024;4
+Lidia Rubio ;Bastante buena;8;22/02/2024;5
+Alba Verdú Guillen;Bueeeenooooo;7;13/07/2024;7
+Félix Aznar Maanan;Buena;7;09/08/2024;8
+Ainhoa Moran ;Buena;7;05/09/2024;4
+Cristóbal Sanchis ;Un gran acierto;7;01/12/2024;13
+Rafael Vaquero ;Me supo mejor la otra vez;7;03/05/2024;12
+Hugo Córcoles Vargas;Bastante buena;8;12/01/2024;11
+Vicente Diéguez Rico;Bueeeenooooo;8;21/01/2024;17
+Lorena Medina Mohamed;Bastante buena;7;18/11/2024;21
+German Ferre Diéguez;Me supo mejor la otra vez;8;04/01/2024;21
+Alberto Álvarez Vega;Buena;8;12/12/2024;15
+María José Duran Alemán;Me supo mejor la otra vez;7;23/12/2024;16
+Vanesa Carrera Dris;No está mal;8;21/07/2024;12
+Nieves Arguelles Sierra;No está mal;7;12/11/2024;2
+Miguel Ángel Torre Lago;Buena;8;23/08/2024;11
+María Mercedes Diéguez ;No está mal;7;13/11/2024;19
+Víctor Velasco ;Bastante buena;8;19/08/2024;24
+Joan Arranz Cebrián;Buena;8;17/02/2024;17
+Rosa Santiago Merino;Un gran acierto;8;08/07/2024;6
+Sofia Cid Laarbi;Bueeeenooooo;7;13/05/2024;24
+Adrián Royo Vidal;Bueeeenooooo;8;18/03/2024;7
+Diana López Haddu;Un gran acierto;7;01/08/2024;9
+Daniela Benaisa ;No está mal;7;16/02/2024;3
+Mar Mimon Bermejo;No está mal;7;23/05/2024;7
+Amparo Sole Piñeiro;Me supo mejor la otra vez;7;14/06/2024;16
+Eric Oses ;No está mal;7;19/12/2024;24
+Roció Betancor Bilbao;No estaba nada mal;8;18/01/2024;9
+Roció Izquierdo Valdés;No está mal;8;19/05/2024;19
+Mercedes Menéndez Muñoz;Un gran acierto;8;17/09/2024;6
+Eva Luis Abselam;Me supo mejor la otra vez;8;15/03/2024;15
+Marina Muñiz Abdel Lah;No está mal;8;03/12/2024;4
+José Macho Chairi;Bastante buena;8;22/07/2024;1
+José Francisco Echeverria Abdelkader;Un gran acierto;8;24/03/2024;5
+Marta Abselam Salgado;No estaba nada mal;8;22/09/2024;25
+Rubén San Martin ;Bueeeenooooo;8;15/09/2024;25
+Nieves Alfaro Barbero;No está mal;8;24/06/2024;3
+Sebastián Aguirre Echevarría;Buena;7;06/04/2024;11
+Joaquín Mas Herrero;No está mal;7;24/03/2024;24
+Luz Delgado ;Un gran acierto;7;18/06/2024;24
+Catalina Castro ;Buena;7;15/08/2024;1
+Adrián Al Lal Cabrera;Bastante buena;8;06/10/2024;7
+Andrés Marcos ;Bueeeenooooo;8;30/05/2024;10
+Josefa Quintero ;No estaba nada mal;8;14/03/2024;9
+Mónica Rivas ;Me supo mejor la otra vez;7;11/07/2024;3
+María Nieves Estévez ;Bueeeenooooo;7;21/01/2024;16
+Luisa Angulo ;No estaba nada mal;8;24/07/2024;17
+Borja Escribano Flores;No estaba nada mal;8;25/11/2024;6
+Emilia Pérez Moran;No estaba nada mal;7;13/08/2024;23
+María Mercedes Giménez Acosta;Bueeeenooooo;8;25/07/2024;13
+Diana Montes Picazo;Bastante buena;8;21/04/2024;14
+Iván Melian ;Buena;7;06/12/2024;20
+José Carlos Guerra Santana;No está mal;7;05/06/2024;11
+Nicolas Fuertes Bernabéu;Me supo mejor la otra vez;8;11/07/2024;9
+Concepción Manzano Morcillo;No está mal;7;31/08/2024;8
+Alicia Gallego ;Me supo mejor la otra vez;8;24/02/2024;17
+Consuelo Esparza Yanes;Bueeeenooooo;7;20/12/2024;20
+Vanesa Fernández Prada;No está mal;8;07/10/2024;18
+Alexandra Marcos ;Un gran acierto;7;05/08/2024;11
+Noelia Antón San José;No está mal;8;02/03/2024;8
+Gabriel Cuesta Peris;Buena;8;12/01/2024;15
+Laura Tahiri ;Me supo mejor la otra vez;8;14/02/2024;13
+Luz Bernal San Emeterio;No estaba nada mal;8;20/02/2024;4
+José Ignacio Haddu Al Lal;No está mal;7;24/07/2024;17
+Ángeles Menéndez Abdeselam;Un gran acierto;8;03/11/2024;6
+Francisca Pereira Maldonado;Buena;8;29/01/2024;5
+Jaime Medina Hidalgo;Bueeeenooooo;8;11/01/2024;22
+Lucia Gracia ;No está mal;7;27/05/2024;25
+Encarnación Lozano Escudero;No está mal;7;21/05/2024;3
+Mar Abderrahaman ;Me supo mejor la otra vez;7;02/08/2024;24
+Susana Rincón Castro;No estaba nada mal;7;26/04/2024;16
+María Rosa Pazos Cano;No está mal;8;09/05/2024;19
+Marco Mateos Villar;Me supo mejor la otra vez;8;06/10/2024;2
+Josefa Sanz Arenas;Me supo mejor la otra vez;8;30/05/2024;24
+Diana Hossain ;Bastante buena;7;16/04/2024;12
+Emilia Yanes San José;Bueeeenooooo;8;04/07/2024;15
+Rosa Macho Quintana;Bastante buena;7;01/07/2024;20
+Francisco José Velasco Arce;Un gran acierto;7;20/05/2024;2
+Aurora Ferrer Hamed;Buena;7;20/05/2024;20
+Víctor Manuel Esteban Marín;Bastante buena;8;12/05/2024;25
+Consuelo Abad Vaquero;Bueeeenooooo;7;13/12/2024;17
+María Cristina Brito ;No estaba nada mal;8;08/05/2024;1
+Belén Alquezar ;Un gran acierto;7;27/03/2024;16
+Julián Menéndez Reyes;No estaba nada mal;8;06/02/2024;18
+Alicia Vicente Borras;Bueeeenooooo;7;24/12/2024;10
+María Soledad Ferre ;Bastante buena;7;28/10/2024;13
+Eric Padilla ;Bueeeenooooo;8;06/03/2024;17
+Blanca Acosta Peris;Un gran acierto;7;24/03/2024;6
+María Elena Manzano Arribas;No estaba nada mal;8;13/02/2024;24
+Belén Sanchis Mohamedi;Bastante buena;8;19/02/2024;7
+Hugo Barreiro Álvarez;Me supo mejor la otra vez;8;09/04/2024;22
+Esperanza Rubio Ballesteros;Bastante buena;8;26/05/2024;12
+Carmen Delgado ;Me supo mejor la otra vez;7;23/10/2024;15
+Inmaculada Prada Zapico;Bueeeenooooo;8;25/04/2024;23
+Eva María Alí Carballo;Bueeeenooooo;7;19/08/2024;3
+Lorenzo Borras Domenech;Buena;8;09/03/2024;18
+Ainhoa Plasencia Al Lal;Bastante buena;8;21/07/2024;14
+Pedro Calderón Perdomo;No estaba nada mal;7;24/05/2024;1
+Iván Salazar Gascón;Me supo mejor la otra vez;8;03/09/2024;24
+Lorenzo Soriano Aguado;Un gran acierto;7;09/02/2024;4
+Mario Navarro Otero;No estaba nada mal;8;26/12/2024;2
+Eduardo Carballo Soto;Me supo mejor la otra vez;8;26/06/2024;3
+Isabel Araujo Lago;No estaba nada mal;8;08/12/2024;21
+Carla Ramírez Escribano;No está mal;8;24/03/2024;8
+Anna Gonzalo Cruz;No está mal;7;02/03/2024;11
+Juan Francisco Borras Arranz;Buena;8;24/01/2024;13
+José Miguel Merino Sola;Un gran acierto;7;28/07/2024;17
+Nerea Mohamed ;Buena;8;30/01/2024;2
+Rosa María Ortiz Brito;Buena;8;02/02/2024;2
+Ana María Ceballos Román;No estaba nada mal;7;09/06/2024;18
+Lorenzo Ojeda Alarcón;Me supo mejor la otra vez;7;21/04/2024;14
+María Josefa Tahiri Medina;No está mal;7;23/03/2024;15
+Nerea Diego López;Me supo mejor la otra vez;8;28/10/2024;13
+Aaron Amador Amar;Bueeeenooooo;7;18/05/2024;20
+José Antonio Heredia Herrero;Buena;7;03/10/2024;1
+Alexander Quintana Ortiz de Zarate;Un gran acierto;8;09/02/2024;15
+Blanca Sánchez ;No está mal;7;23/08/2024;17
+Albert Maldonado Salgado;Bueeeenooooo;8;15/08/2024;24
+Martin Angulo Antón;No está mal;8;04/09/2024;1
+Esteban Hassan ;Me supo mejor la otra vez;7;26/07/2024;21
+Felipe Rovira Blanco;No estaba nada mal;7;29/08/2024;6
+María Castillo Muñoz;Bueeeenooooo;8;04/07/2024;4
+Iván Rovira ;No está mal;7;12/12/2024;21
+Sofia Echevarría ;Buena;7;30/07/2024;25
+Milagros Blázquez Armas;Me supo mejor la otra vez;8;01/07/2024;1
+Hugo Vila Navarro;Me supo mejor la otra vez;7;10/03/2024;22
+Andrea Trujillo Franco;Me supo mejor la otra vez;7;28/02/2024;23
+Asunción Esparza ;No está mal;8;12/04/2024;4
+Isaac Mohand Gago;Bastante buena;7;13/11/2024;20
+María Dolores Llorente ;No está mal;8;20/09/2024;18
+María Dolores Heredia Arias;Bueeeenooooo;7;05/06/2024;21
+Miguel Rivero Otero;Me supo mejor la otra vez;7;22/02/2024;21
+Carmen Piñeiro Arenas;Bueeeenooooo;8;06/05/2024;5
+José Antonio Moro Rivero;Buena;7;26/01/2024;17
+Inés Hidalgo Herrera;No estaba nada mal;8;19/10/2024;21
+Nieves Santamaria Alí;No está mal;8;29/01/2024;7
+Lidia Puente ;No está mal;8;02/03/2024;3
+Luis Verdú ;Bastante buena;7;13/12/2024;10
+Inmaculada Mimun Aguirre;Buena;8;27/12/2024;14
+Diego Peña Salazar;No estaba nada mal;7;25/06/2024;7
+Ignacio Rodenas Córcoles;No estaba nada mal;7;17/06/2024;13
+Martina Costas Lavín;Bueeeenooooo;7;16/08/2024;13
+Rubén Araujo Parra;Bastante buena;8;22/06/2024;2
+Carolina Muñiz Casado;Buena;7;25/05/2024;12
+Francisco José Quintero Gimeno;No está mal;8;16/08/2024;20
+Cesar Armendáriz Espinosa;Buena;8;21/09/2024;16
+María Pilar Mateos Gascón;Bastante buena;8;07/04/2024;24
+María Elena Molina ;Me supo mejor la otra vez;7;24/11/2024;24
+Domingo Herrera ;Buena;8;19/10/2024;7
+María Elena Hassan Silva;No estaba nada mal;8;05/02/2024;8
+María Luisa Casal Amador;;7;04/01/2024;7
+Andrea Mohamed ;Buena;8;22/08/2024;25
+María Mar Hassan Zabalza;Un gran acierto;8;09/03/2024;2
+Susana Barbero ;No estaba nada mal;7;09/09/2024;16
+María Dolores Montero Vila;Me supo mejor la otra vez;8;03/12/2024;20
+María Antonia Castillo Marco;Bueeeenooooo;7;11/04/2024;14
+Ignacio Ferre Muñiz;No está mal;8;19/04/2024;4
+Raquel Pardo ;Buena;8;12/05/2024;14
+Eric Granda Tejedor;Buena;8;11/10/2024;7
+Eva María de Pablos ;No está mal;7;07/03/2024;3
+Víctor Mimon Vila;No estaba nada mal;8;02/07/2024;4
+Rafael Abselam Abdeselam;Bastante buena;7;04/11/2024;1
+Lorenzo Saiz Rincón;Bueeeenooooo;8;26/07/2024;17
+Dolores Escribano Sosa;No está mal;8;12/09/2024;25
+Andrea San Emeterio Muñiz;No estaba nada mal;7;02/08/2024;17
+Joaquín Román Rubio;Bueeeenooooo;8;11/10/2024;23
+María Jesús Moreno Hassan;Un gran acierto;7;17/02/2024;14
+María Victoria Ortiz San José;Bastante buena;8;10/09/2024;3
+Eric Ojeda ;Me supo mejor la otra vez;7;26/08/2024;21
+Marcos Sierra Rial;Bastante buena;7;03/02/2024;14
+José Ángel Nieto Vaquero;No estaba nada mal;7;08/12/2024;20
+Ana Belén Vicente Casado;No estaba nada mal;8;22/02/2024;21
+Yolanda Castillo ;Un gran acierto;8;24/05/2024;24
+María Nieves Sancho Domínguez;No está mal;8;11/08/2024;9
+Virginia Peláez ;Bueeeenooooo;8;09/05/2024;4
+Roberto Lozano Lozano;No está mal;7;10/04/2024;1
+Cesar Acosta Sabaté;Bastante buena;7;09/03/2024;11
+Lucas Cacho Benito;Buena;7;29/01/2024;9
+Diana Alí Diaz;Buena;8;19/06/2024;24
+María Dolores Córcoles Zabala;No está mal;8;29/11/2024;9
+Joaquín Franco Torres;Un gran acierto;8;17/11/2024;7
+Magdalena Aznar Pereira;Bueeeenooooo;7;17/05/2024;15
+Javier Zabalza Mohamedi;Un gran acierto;7;12/10/2024;6
+María Luisa de Miguel Mohamed;Me supo mejor la otra vez;7;28/04/2024;8
+Margarita Velasco ;Buena;8;24/06/2024;7
+Carmen Trujillo de Andrés;Buena;8;17/07/2024;13
+Raúl Giménez Sierra;Bueeeenooooo;7;24/04/2024;13
+Eduardo Hidalgo Blázquez;No estaba nada mal;7;22/11/2024;25
+Sergio Arias Cacho;Bastante buena;8;17/05/2024;7
+Alfonso Santiago Serrano;Bueeeenooooo;7;03/03/2024;13
+María Concepción Puente ;Bueeeenooooo;8;15/01/2024;23
+María José Moro Huarte;;8;08/09/2024;15
+Isabel Medina Méndez;Bueeeenooooo;7;15/02/2024;6
+Francisco José Mas Echevarría;No estaba nada mal;7;03/05/2024;16
+María Josefa Blázquez Domingo;Me supo mejor la otra vez;8;16/12/2024;9
+María Josefa Sánchez Quintero;No está mal;8;02/04/2024;4
+Manuela Sabaté ;Me supo mejor la otra vez;7;23/05/2024;25
+Marcos Chairi Fraile;Bastante buena;8;12/07/2024;25
+German Gómez ;Me supo mejor la otra vez;7;30/10/2024;8
+María Rosario Sosa Marco;Bueeeenooooo;7;09/03/2024;3
+Francisca Rial Gimeno;Un gran acierto;8;17/06/2024;18
+Ana Isabel Vara ;No estaba nada mal;7;18/11/2024;4
+Vanesa Rubio Castro;Buena;8;03/09/2024;5
+María Elena Piñeiro Cuenca;Buena;7;20/11/2024;7
+Rubén Plasencia Arenas;;8;24/05/2024;16
+Vanesa Hevia Vidal;Bastante buena;8;13/06/2024;17
+Samuel Romera Acosta;Bueeeenooooo;7;03/03/2024;6
+Roció Diego Chaib;Buena;8;17/08/2024;18
+Lorenzo Abdel Lah Vicente;Bueeeenooooo;8;11/01/2024;2
+Teresa Granda ;Bueeeenooooo;8;24/07/2024;25
+Enrique Mira García;Bueeeenooooo;8;18/02/2024;12
+Patricia Ochoa Ferre;Bastante buena;7;04/07/2024;7
+Oscar Sancho Hassan;Me supo mejor la otra vez;7;28/07/2024;18
+Laura Bermejo ;Me supo mejor la otra vez;8;01/06/2024;10
+Marco Crespo Antón;Bueeeenooooo;7;29/06/2024;1
+Irene Zapico ;Bastante buena;7;29/02/2024;25
+María Josefa Fraile Rial;Bastante buena;7;27/10/2024;8
+María Rosa Quintero Santamaria;Bueeeenooooo;8;29/12/2024;12
+Mariano Aguirre Vega;Un gran acierto;7;09/07/2024;22
+Juana Ferre Navarro;Un gran acierto;7;25/09/2024;2
+Iker Heredia Rubio;Bastante buena;7;08/10/2024;23
+David Alí Carrera;Buena;7;14/01/2024;7
+Natalia Fuentes ;Me supo mejor la otra vez;7;07/08/2024;10
+María de Andrés Casal;Me supo mejor la otra vez;7;18/05/2024;10
+Cristóbal Ahmed Armendáriz;¡Bah! nada del otro mundo;6;28/02/2024;20
+Aurora Hernández Galán;Regular;6;10/02/2024;15
+María Dolores Lafuente ;Se dejaba comer;6;08/11/2024;4
+Mar Hernández Zapico;Regular;6;25/12/2024;2
+Begoña Fernández Herranz;Regular;6;23/10/2024;12
+Elena Pérez Azcona;Se dejaba comer;6;23/11/2024;5
+Valeria Bilbao Román;Sí... buena;6;08/10/2024;8
+Soledad Revuelta el Founti;Un poco seca;6;20/04/2024;22
+María Cristina Carmona Hidalgo;Mejorable;5;27/11/2024;17
+Héctor Heredia Lavín;Se dejaba comer;5;28/06/2024;5
+Ignacio Guerrero ;Sí... buena;6;21/06/2024;4
+Antonia Andrés Mohamedi;;5;21/11/2024;7
+Lourdes León ;Sí... buena;6;13/06/2024;13
+Carlos Ojeda ;Sí... buena;6;05/11/2024;17
+Paula de Miguel ;Se dejaba comer;5;08/10/2024;11
+Cristina Mimun Amar;Ni fu ni fa;5;20/01/2024;6
+Darío Trujillo ;Sí... buena;5;09/10/2024;2
+Arturo Antolín Lozano;¡Bah! nada del otro mundo;5;05/02/2024;18
+Santiago Arias Echevarría;Normalita tirando a seca;5;18/02/2024;16
+Anna Costas Iglesias;Mejorable;5;02/11/2024;18
+Belén de Pablos ;Un poco seca;5;20/04/2024;14
+Noelia Tébar Gago;Se dejaba comer;5;08/03/2024;8
+Marina Mimon Puente;Sí... buena;6;28/11/2024;23
+Andrea Hernández Quintas;Mejorable;6;27/07/2024;18
+Soledad Moreno Miguel;Mejorable;6;03/07/2024;22
+Iván León Rubio;Un poco seca;6;03/12/2024;18
+Nuria Prada Pazos;Mejorable;6;13/06/2024;2
+Felipe Arce Ochoa;Sí... buena;6;24/01/2024;21
+Lorena Saiz Ferre;Normalita tirando a seca;6;17/05/2024;14
+Alba Román Rodrigo;Regular;6;20/06/2024;9
+María Ángeles Mas Córcoles;Ni fu ni fa;5;04/12/2024;10
+Begoña Esparza Cabrera;Un poco seca;6;18/02/2024;1
+Carmen Vila Herrero;Se dejaba comer;5;12/08/2024;16
+Alejandra Salazar Haddu;Ni fu ni fa;6;13/03/2024;12
+José María Benito Martin;Normalita tirando a seca;6;01/01/2024;2
+María Dolores Blanco Salazar;Se dejaba comer;5;19/03/2024;15
+Ismael Echevarría Menéndez;Sí... buena;6;16/08/2024;11
+Marc Abdel Lah ;Se dejaba comer;5;07/09/2024;2
+Rodrigo León Arribas;Un poco seca;6;06/05/2024;3
+Marina Pardo ;¡Bah! nada del otro mundo;5;05/02/2024;12
+María Cristina Ceballos Comesaña;Regular;6;10/09/2024;8
+Salvador Sánchez Aznar;;5;24/08/2024;25
+Xavier Abdel Lah Bilbao;Se dejaba comer;5;20/02/2024;16
+Diana Montoya Expósito;Normalita tirando a seca;5;15/12/2024;2
+Joaquín Villegas Delgado;Ni fu ni fa;6;22/01/2024;20
+Nerea Ballesteros Vara;Un poco seca;6;01/06/2024;6
+Catalina Casado Mustafa;;5;04/08/2024;15
+José Antonio Torre Amar;Mejorable;6;10/07/2024;20
+Christian Gimeno ;Se dejaba comer;5;24/05/2024;21
+Rubén Diez ;¡Bah! nada del otro mundo;5;28/01/2024;10
+Verónica Benaisa ;¡Bah! nada del otro mundo;6;09/12/2024;4
+Magdalena Diéguez Quintana;Un poco seca;5;29/05/2024;20
+Miguel Ángel Lorenzo ;¡Bah! nada del otro mundo;5;24/01/2024;20
+Mario Nieto Vicente;¡Bah! nada del otro mundo;5;01/02/2024;25
+Juana Perdomo Fuertes;¡Bah! nada del otro mundo;6;21/12/2024;16
+María Mar Rial Haddu;Sí... buena;5;22/01/2024;5
+Sonia Marín Soria;Un poco seca;5;22/10/2024;21
+Antonia Guillen ;Regular;5;23/10/2024;13
+Arturo Hamed Blasco;Se dejaba comer;6;03/02/2024;16
+Margarita Calero Rey;Normalita tirando a seca;5;11/06/2024;4
+Eugenia Calero Ortiz de Zarate;Se dejaba comer;6;08/01/2024;8
+Victoria Núñez Santamaria;Se dejaba comer;5;10/12/2024;21
+Verónica Bernal ;¡Bah! nada del otro mundo;6;12/03/2024;8
+Asunción Abdeselam Quintero;Un poco seca;5;01/02/2024;7
+Juan Manuel Maldonado González;Mejorable;5;06/03/2024;24
+Nuria Casanova Dris;;5;22/01/2024;14
+José Carlos Sabaté Fuertes;Regular;6;07/12/2024;19
+Concepción Zabala Maanan;¡Bah! nada del otro mundo;6;14/08/2024;12
+Alba Araujo Mustafa;Un poco seca;6;08/12/2024;14
+María Rosa Hernández Giménez;Mejorable;6;21/11/2024;6
+Josefa Miralles de la Cruz;Se dejaba comer;5;23/01/2024;7
+Sonia Ochoa de Pablos;Se dejaba comer;5;19/12/2024;7
+Joel Otero Maldonado;¡Bah! nada del otro mundo;6;10/05/2024;23
+Alexander Abdelkader ;Ni fu ni fa;5;08/03/2024;4
+Aitor Dorta Aguilar;Regular;5;13/10/2024;6
+Ignacio Sainz Saiz;Sí... buena;6;23/10/2024;19
+Isaac Escribano Soria;Normalita tirando a seca;6;21/06/2024;8
+Ángeles Abdel Lah Velasco;Ni fu ni fa;6;13/12/2024;8
+Enrique Chairi Quintas;Mejorable;6;18/01/2024;20
+Lucas Lafuente ;¡Bah! nada del otro mundo;5;04/01/2024;19
+Mónica Velasco ;¡Bah! nada del otro mundo;5;11/10/2024;17
+Cristina Peláez Cuervo;Ni fu ni fa;5;12/04/2024;3
+Álvaro Bermejo Escribano;Sí... buena;6;22/02/2024;21
+Gonzalo San José ;;6;19/12/2024;6
+Joel Piñeiro ;;6;28/03/2024;10
+Montserrat Ferrero Ortiz;;6;31/05/2024;12
+Esteban Ruiz Goñi;Normalita tirando a seca;5;02/05/2024;25
+Diego Silva ;Regular;6;07/07/2024;5
+Lorena Rivas Herrero;Normalita tirando a seca;6;22/11/2024;3
+Elisa Torre Salgado;Sí... buena;6;23/11/2024;10
+Sandra Collado de la Fuente;;5;10/09/2024;1
+Hugo Amador ;Sí... buena;6;12/02/2024;18
+Francisco Javier Miranda Córcoles;;5;29/03/2024;9
+Sofia Guerrero ;;5;03/05/2024;19
+Alexandra Salazar ;Normalita tirando a seca;6;04/01/2024;6
+Blanca Brito Picazo;Normalita tirando a seca;6;11/08/2024;16
+Alicia Santana ;Ni fu ni fa;5;15/01/2024;13
+Adrián Armendáriz Piñeiro;Mejorable;6;21/12/2024;2
+Jonathan Oses ;Normalita tirando a seca;6;28/11/2024;24
+Ana Belén Crespo Mohamed;Se dejaba comer;6;25/12/2024;21
+Daniel Nieto ;Normalita tirando a seca;5;15/04/2024;1
+Yolanda Abdeslam ;Se dejaba comer;5;31/05/2024;11
+Jordi Ortega ;Mejorable;5;17/05/2024;13
+Albert Haddu Serrano;Regular;5;07/07/2024;23
+Lorena Carballo Hossain;;5;23/05/2024;10
+Tomas Valencia Blasco;¡Bah! nada del otro mundo;5;27/12/2024;16
+Lucas Cano Parra;;6;30/04/2024;4
+Margarita Núñez ;Mejorable;6;03/05/2024;23
+Julio Ceballos Arce;Regular;6;09/03/2024;24
+Vanesa Luis Peláez;Regular;6;06/09/2024;13
+Víctor Manuel Vargas ;Sí... buena;5;01/09/2024;12
+David Rojo Paz;Regular;5;24/11/2024;8
+Guillermo Quintana ;Un poco seca;6;05/12/2024;15
+Diana Abad Márquez;Se dejaba comer;6;11/11/2024;5
+Lorena Andrés Ferreira;Ni fu ni fa;6;23/08/2024;16
+Miguel Ángel Mimun Delgado;;6;01/06/2024;14
+María Carmen Peris Quintero;Mejorable;6;11/01/2024;1
+José Manuel Gimeno ;;6;19/02/2024;9
+Ramon Izquierdo Villar;;5;07/10/2024;23
+Jesús Miguel Amar;Normalita tirando a seca;6;08/09/2024;11
+Jesús Rovira Paz;Ni fu ni fa;6;15/05/2024;6
+Mónica Etxebarria ;Normalita tirando a seca;5;20/05/2024;17
+Darío Mateos Fuentes;Regular;6;01/04/2024;6
+David Ruiz Arias;Normalita tirando a seca;5;29/01/2024;19
+Ricardo Alarcón ;Sí... buena;6;25/10/2024;24
+Marc García Santiago;;6;12/01/2024;16
+Alberto Blázquez ;Mejorable;6;11/04/2024;19
+Manuela Cano Vaquero;Mejorable;5;19/04/2024;1
+Vicente Melian Deniz;¡Bah! nada del otro mundo;5;24/03/2024;25
+Enrique Ferreira Herranz;Normalita tirando a seca;6;14/06/2024;9
+Alex Guillen ;Mejorable;5;31/03/2024;4
+Clara Rico Zabalza;¡Bah! nada del otro mundo;6;06/10/2024;19
+Marc de Pablos ;Sí... buena;5;10/10/2024;9
+Luis Mateos Amar;Se dejaba comer;6;15/02/2024;4
+José Cruz Casanova;Mejorable;6;06/05/2024;20
+Salvador Valero Andrés;Regular;5;05/06/2024;17
+Pedro Lafuente Mimoun;Un poco seca;6;09/09/2024;9
+Cristina Antuña Quintero;Se dejaba comer;5;11/03/2024;4
+Fátima Estévez Etxebarria;¡Bah! nada del otro mundo;5;28/12/2024;15
+Domingo Chaib Menéndez;Mejorable;6;02/02/2024;11
+Olga Pinedo Sola;Un poco seca;6;18/03/2024;5
+Rubén López Moya;¡Bah! nada del otro mundo;6;11/09/2024;18
+Julio Carmona Salmerón;¡Bah! nada del otro mundo;5;26/04/2024;8
+Joaquín Cano Sole;Regular;6;01/02/2024;23
+Fátima Mohamedi Benito;Un poco seca;6;16/07/2024;7
+Celia Ortiz León;Ni fu ni fa;6;03/01/2024;13
+Tomas Puente Prada;;6;05/07/2024;6
+Antonio Esparza Duran;Sí... buena;5;23/04/2024;12
+Julia Revuelta Ferrer;;5;14/07/2024;18
+Beatriz Abascal ;Se dejaba comer;6;26/06/2024;23
+Sofia Espinosa Peña;;5;11/04/2024;18
+Tomas Román Sánchez;;6;01/07/2024;17
+Ismael Velasco López;Ni fu ni fa;6;13/11/2024;19
+María Cristina Echeverria Flores;¡Bah! nada del otro mundo;6;02/07/2024;14
+Gonzalo Al Lal Abdel Lah;Mejorable;6;20/04/2024;19
+Oscar Santiago ;Un poco seca;5;31/10/2024;11
+Anna Pastor ;¡Bah! nada del otro mundo;5;21/06/2024;11
+Lourdes Ferreira ;Ni fu ni fa;5;25/03/2024;17
+María Soledad Rubio Deniz;¡Bah! nada del otro mundo;6;21/06/2024;15
+José Luis Sanchis Espinosa;;5;04/11/2024;14
+María Soledad Diéguez Redondo;Mejorable;6;18/01/2024;4
+Dolores Blázquez ;Ni fu ni fa;5;01/03/2024;21
+María Teresa Kaddur ;¡Bah! nada del otro mundo;6;24/03/2024;16
+Eugenio Macho Marco;¡Bah! nada del otro mundo;5;29/03/2024;2
+María Josefa Sanchis ;Se dejaba comer;6;02/06/2024;25
+Jonathan Haddu ;Ni fu ni fa;6;03/12/2024;10
+Sofia Ferreiro Villar;Sí... buena;6;29/01/2024;9
+María Mercedes Jiménez Arribas;Mejorable;6;15/02/2024;20
+Angela Sainz Diéguez;Regular;5;21/08/2024;10
+Lorena Abdeslam Tahiri;Ni fu ni fa;6;31/10/2024;22
+Juan Manuel Carmona Salazar;Sí... buena;5;18/02/2024;5
+Adrián Jiménez Barreiro;;5;18/07/2024;9
+María Miranda ;Sí... buena;6;15/06/2024;19
+Luisa Medina ;Se dejaba comer;6;23/06/2024;12
+Juan Francisco Vidal Revuelta;Un poco seca;6;07/01/2024;10
+María Soledad Hevia Echeverria;Mejorable;6;11/03/2024;4
+Victoria Bermejo ;Mejorable;5;26/08/2024;24
+Fátima Torres ;Un poco seca;6;25/11/2024;4
+Cristina Pérez Betancor;Regular;5;16/12/2024;14
+Catalina Ferre Gonzalo;Mejorable;5;09/08/2024;10
+Albert Cruz Cebrián;Normalita tirando a seca;6;04/02/2024;11
+Marta Pardo ;Normalita tirando a seca;6;11/05/2024;21
+Yolanda Peña ;;5;31/10/2024;14
+Diego Rojas Losada;¡Bah! nada del otro mundo;6;29/01/2024;15
+Ana Isabel Granda Ferrer;Sí... buena;6;22/06/2024;18
+José Ignacio Mira ;¡Bah! nada del otro mundo;6;05/01/2024;21
+Josep Marrero Casado;¡Bah! nada del otro mundo;5;17/08/2024;2
+Natalia Amorós Miguel;Se dejaba comer;6;01/08/2024;2
+Inmaculada Amar ;¡Bah! nada del otro mundo;6;02/05/2024;13
+Jordi Montero Giménez;Regular;6;05/10/2024;4
+José Luis Haddu Alí;Se dejaba comer;5;21/01/2024;7
+Susana Abad ;;5;10/08/2024;1
+Eva Falcon Carrera;Regular;5;08/08/2024;18
+Francisco José Mustafa Reyes;Se dejaba comer;5;14/10/2024;23
+María Pilar Vara Molina;Se dejaba comer;5;08/03/2024;5
+Lorena Royo Arce;Mejorable;6;22/02/2024;17
+Juan Manuel Nieto Santos;¡Bah! nada del otro mundo;6;20/04/2024;11
+Rubén Ortiz de Zarate Crespo;Regular;6;17/11/2024;3
+Juan Francisco Ibáñez Gascón;Regular;6;06/12/2024;16
+Sandra Laarbi Mateos;¡Bah! nada del otro mundo;5;03/07/2024;6
+Soledad Jiménez Calero;;5;11/11/2024;24
+Nerea Losada Gil;Regular;5;14/01/2024;5
+Alfonso Gallego Gil;Regular;6;12/02/2024;23
+José Antonio Verdú Ibáñez;Normalita tirando a seca;5;06/03/2024;11
+Angela Gago Soriano;Un poco seca;6;14/02/2024;5
+Esperanza Cruz ;Regular;6;28/02/2024;10
+Oscar Vega ;Regular;6;09/01/2024;16
+Miriam Villar Casanova;Se dejaba comer;5;14/01/2024;10
+Ana Belén Villar Gil;Regular;5;13/02/2024;4
+Roberto Abad Valdés;Mejorable;6;09/12/2024;18
+Lucas Diaz Arce;Normalita tirando a seca;6;12/06/2024;17
+Aitor Heredia Rey;Mejorable;5;23/06/2024;3
+Alexander Hidalgo Amar;¡Bah! nada del otro mundo;6;04/12/2024;12
+Dolores Moreno Arribas;Regular;5;24/09/2024;21
+Sergio Gómez ;Normalita tirando a seca;5;02/05/2024;5
+Ricardo Rubio Lorenzo;;5;08/03/2024;25
+Alex Núñez Echevarría;Se dejaba comer;5;26/07/2024;8
+María Rosario Lago Esteban;Se dejaba comer;5;14/02/2024;25
+Isaac Redondo ;Mejorable;6;05/09/2024;21
+Jesús Méndez ;Se dejaba comer;6;20/10/2024;10
+Ana Arce Fuertes;¡Bah! nada del otro mundo;6;25/07/2024;3
+Juan Antonio Villarroya Tejedor;Se dejaba comer;6;12/06/2024;1
+José Luis Mora Blázquez;¡Bah! nada del otro mundo;5;18/03/2024;25
+Consuelo San José ;Sí... buena;6;13/12/2024;4
+Teresa Gómez ;Normalita tirando a seca;5;13/06/2024;24
+Gregorio Hassan Villar;¡Bah! nada del otro mundo;6;06/12/2024;15
+María Ángeles Chaib Lafuente;Sí... buena;6;15/07/2024;1
+Jorge Borras ;Un poco seca;5;26/09/2024;22
+María Soledad Amador Mimun;Mejorable;5;13/08/2024;6
+Eugenia Benito ;Sí... buena;6;03/09/2024;23
+Lucia Villegas Navarro;;6;10/01/2024;19
+María Victoria Verdú Al Lal;Se dejaba comer;6;13/12/2024;16
+María Fernández Bilbao;Normalita tirando a seca;6;02/07/2024;16
+Héctor Rico ;Normalita tirando a seca;5;25/02/2024;20
+Valentina Rivero Domenech;Un poco seca;6;16/10/2024;8
+Consuelo Cid Hidalgo;Regular;5;08/09/2024;18
+Guillermo Macho Gago;Sí... buena;6;31/05/2024;2
+Joaquín Uriarte Maanan;Normalita tirando a seca;6;12/04/2024;18
+Roberto Vidal ;Regular;5;12/01/2024;12
+Ricardo Santamaria Valencia;¡Bah! nada del otro mundo;6;16/07/2024;9
+Jesús Arribas Sáenz;Regular;5;09/11/2024;11
+María Rosa Castro Arenas;Ni fu ni fa;6;25/11/2024;16
+Nicolas Domínguez Lago;Sí... buena;5;02/12/2024;13
+Julio de Frutos Miralles;Regular;5;31/08/2024;2
+Patricia de la Cruz Arenas;¡Bah! nada del otro mundo;5;24/08/2024;2
+Susana Hassan Ruiz;Mejorable;6;17/02/2024;8
+Alba Alemán Plasencia;Mejorable;5;12/04/2024;4
+Fernando Alí López;Regular;6;04/06/2024;22
+Alfredo Zapico ;Mejorable;5;19/05/2024;25
+Miguel Ángel Moran Domingo;¡Bah! nada del otro mundo;5;14/11/2024;20
+Juan Antonio Crespo Salgado;Malísima;1;26/11/2024;16
+Ana Gago Ferrero;Malísima;1;28/09/2024;5
+Marco Méndez Macho;No la volveré a comer;4;15/10/2024;18
+Juan Navarro Ferrer;No sabía bien;1;06/01/2024;13
+Mercedes Uriarte Nieto;Malísima;0;13/01/2024;25
+Luisa Santamaria Carrera;;1;12/09/2024;8
+Inmaculada Tejedor Delgado;No sabía bien;0;19/01/2024;19
+José Prieto ;No me ha convencido;1;01/04/2024;1
+Andrés Rincón ;No sabía bien;0;27/07/2024;13
+María Teresa Arenas Tejedor;No sabía bien;4;24/02/2024;7
+Patricia Navarro Sola;No me ha gustado nada;0;07/03/2024;22
+María Rosario Calero ;No me ha gustado nada;0;08/11/2024;25
+German Deniz ;No me ha gustado nada;0;15/04/2024;14
+María Mar Roig Cacho;No sabía bien;0;05/02/2024;18
+Ismael San Martin Soriano;No me ha convencido;4;03/10/2024;11
+Ismael Manzano Kaddur;;4;21/09/2024;2
+Milagros Montero Chairi;No me ha gustado nada;3;07/08/2024;20
+Milagros Pascual Sabaté;No me ha convencido;4;01/06/2024;19
+Mateo Salgado Torres;Malísima;3;06/05/2024;3
+Esther Rey Peña;Bastante mala;3;26/12/2024;7
+Aitor Calero Mimoun;No me ha convencido;0;27/03/2024;9
+Eva María Trujillo Lafuente;No me ha convencido;3;02/11/2024;5
+Susana Ramos Peláez;Bastante mala;1;20/06/2024;25
+Sandra Ibáñez ;No estaba buena;3;11/02/2024;12
+Paula Quintana Chaib;Bastante mala;4;14/08/2024;17
+Manuel Soler ;No me ha convencido;2;02/05/2024;21
+Luz Quintana ;No me ha gustado nada;3;21/06/2024;22
+Ramon Salmerón Segura;No sabía bien;0;21/10/2024;12
+Gabriel Fuertes Rivero;No la volveré a comer;1;03/01/2024;23
+Víctor Vidal Estévez;Malísima;1;13/06/2024;22
+Luz Abdeslam Santana;;0;03/03/2024;11
+Ainhoa Alí ;No estaba buena;2;20/08/2024;18
+Oscar Esteban Peris;;1;21/06/2024;14
+Juan Francisco Fraile ;Bastante mala;3;16/03/2024;15
+Diana Rojo ;No la volveré a comer;4;20/09/2024;2
+Roberto Abascal Castillo;No me ha convencido;2;09/04/2024;3
+María Moro Guerrero;No la volveré a comer;4;23/07/2024;18
+Josefa Sanchis Giménez;Malísima;3;07/06/2024;21
+Inés Silva ;Bastante mala;0;19/06/2024;25
+Carolina Lago ;Malísima;2;13/07/2024;6
+Eva Gracia Saiz;No me ha convencido;3;10/10/2024;25
+Marina Cuenca Mohamedi;;4;17/01/2024;1
+Consuelo Sabaté ;No estaba buena;1;07/02/2024;22
+Francisca Gonzalo Merino;No estaba buena;3;10/07/2024;20
+Ana Belén Gascón Vega;No la volveré a comer;2;06/07/2024;13
+Paula Ibáñez ;No estaba buena;0;14/09/2024;11
+Nerea Royo Rincón;No me ha convencido;0;01/06/2024;4
+Isaac Andrés Ibáñez;No sabía bien;3;07/09/2024;1
+José Francisco Mira Puente;;2;01/12/2024;10
+Ana Belén Sola Alemán;No estaba buena;1;24/05/2024;13
+Alexander Cebrián Ramírez;;2;05/07/2024;21
+Julián Rivas Granda;No me ha gustado nada;3;28/05/2024;19
+Yolanda Marín San José;No sabía bien;2;26/06/2024;11
+Margarita Armas Huarte;Malísima;3;11/03/2024;22
+María Fraile Gómez;No me ha convencido;2;03/02/2024;14
+María Jesús Moreno Duran;Malísima;1;25/12/2024;24
+Julio Rojas Bernabéu;;4;27/10/2024;1
+Francisca Lahoz ;No la volveré a comer;1;28/12/2024;1
+Ainhoa Sabaté Morcillo;No la volveré a comer;4;14/11/2024;14
+Valentina de Miguel ;No me ha convencido;3;09/05/2024;15
+Carolina Román Angulo;No estaba buena;3;10/02/2024;23
+Patricia Sabaté Rojas;No me ha convencido;4;19/05/2024;10
+Sonia Echevarría Quintero;Malísima;4;05/05/2024;18
+Raúl Al Lal Al Lal;No me ha gustado nada;0;30/03/2024;12
+José Antonio Manzano de Miguel;;3;08/02/2024;17
+Juan Carlos Cruz Moreno;Bastante mala;0;03/05/2024;19
+Ana María Lozano Expósito;Bastante mala;2;20/05/2024;3
+Sonia Guillen Martí;No me ha gustado nada;2;23/08/2024;16
+María Cristina Sainz Hernández;No me ha gustado nada;3;15/11/2024;14
+Encarnación Esparza Roca;No estaba buena;1;05/12/2024;17
+Josep Granda Núñez;No la volveré a comer;0;27/07/2024;7
+Jaime Mora ;No estaba buena;2;18/10/2024;16
+Noelia Alarcón Chairi;No la volveré a comer;3;27/02/2024;3
+Luis Miguel Vila ;No la volveré a comer;4;18/04/2024;6
+Rafael San José Azcona;No estaba buena;2;20/11/2024;10
+Nieves Tejedor Mimon;No sabía bien;1;02/08/2024;12
+Isaac Núñez Peña;Malísima;2;24/04/2024;20
+Silvia Llorente Córcoles;Malísima;4;23/08/2024;19
+Consuelo Aguado ;No la volveré a comer;3;20/06/2024;19
+José Miguel Medina Aguado;Malísima;4;23/06/2024;6
+Marco Peris ;No estaba buena;1;11/05/2024;16
+Miguel Ángel Gallego Casal;No me ha gustado nada;0;01/05/2024;11
+Emilio Calderón Blanco;No estaba buena;4;25/05/2024;3
+Sofia Gil Diego;No me ha convencido;1;08/09/2024;13
+José Arribas Cuervo;;1;27/09/2024;18
+Xavier Azcona Afonso;No me ha convencido;2;13/10/2024;4
+Eva Mimun Maldonado;Malísima;4;09/11/2024;25
+Milagros Hassan ;;2;28/05/2024;4
+Susana Feijoo Ferre;No sabía bien;4;24/10/2024;12
+Marina Hossain Comesaña;;0;01/06/2024;10
+Angela Trujillo Ferrer;No me ha gustado nada;2;24/09/2024;6
+María Victoria Romero Costas;No me ha convencido;1;09/03/2024;22
+Eduardo Alonso Gimeno;No la volveré a comer;1;10/12/2024;7
+Elena Mohand Franco;;3;19/12/2024;20
+José Francisco Royo Echeverria;;1;15/12/2024;11
+María Dolores León Mateos;;1;27/04/2024;4
+Víctor Benito Muñiz;Malísima;0;07/02/2024;3
+Gloria Benaisa Salgado;Malísima;2;18/04/2024;1
+Esperanza Alarcón Quintas;No sabía bien;2;14/08/2024;8
+Cesar Ruiz Gracia;No sabía bien;4;13/05/2024;2
+Esteban de la Cruz Perdomo;No la volveré a comer;4;15/04/2024;2
+Esperanza Rojo Vargas;No me ha convencido;3;07/08/2024;1
+María Mar de la Fuente ;No la volveré a comer;4;18/04/2024;11
+Jordi Pérez Moreno;No me ha convencido;1;19/04/2024;24
+Diego Esparza ;Bastante mala;3;19/02/2024;15
+Alex Diéguez Torres;;2;24/01/2024;9
+Álvaro Salazar ;No estaba buena;4;02/04/2024;8
+María Rosario Vega Alfaro;No me ha convencido;0;04/12/2024;2
+Isabel Cabrera ;Bastante mala;0;01/08/2024;12
+Mario Hernández Comesaña;;1;16/07/2024;22
+Isaac Silva Esteban;No sabía bien;0;19/09/2024;17
+Martina Jiménez Mimoun;No me ha convencido;1;28/03/2024;12
+Verónica Arce Piñeiro;Malísima;1;12/09/2024;1
+Oscar de Andrés Mohand;No me ha convencido;3;27/11/2024;16
+Raquel Cid Andrés;Malísima;0;27/08/2024;9
+Olga Diéguez Diego;No estaba buena;0;26/07/2024;17
+Juan José Peña Marín;No estaba buena;2;23/12/2024;24
+Sofia Hernández Brito;No me ha convencido;0;09/07/2024;12
+Elisa Espinosa Casal;;3;15/05/2024;5
+María Ferrero Sáez;No sabía bien;0;31/10/2024;15
+Luis Miguel Zabalza Fraile;No la volveré a comer;3;26/12/2024;4
+Margarita Mas Peris;No estaba buena;0;14/06/2024;3
+Vanesa Martí Vila;No sabía bien;0;16/07/2024;4
+Catalina Sainz ;No me ha convencido;2;17/03/2024;10
+Juan Carlos Alemán Giménez;No estaba buena;3;01/12/2024;14
+Valeria Cobo ;Malísima;4;19/11/2024;21
+Lucia Soto de la Cruz;;4;30/03/2024;22
+Ainhoa Segura Calero;Bastante mala;4;07/01/2024;21
+María Victoria Sanchis de Andrés;No me ha gustado nada;4;01/05/2024;21
+Andrés Bermejo ;;2;01/06/2024;12
+Mar Barreiro Crespo;;2;03/07/2024;24
+Miriam Calvo Romero;Bastante mala;3;15/07/2024;20
+Gabriel Ochoa ;;2;20/10/2024;21
+Santiago Marcos ;Bastante mala;0;28/10/2024;16
+Sandra Macho Verdú;;4;20/01/2024;23
+Vicente Rodenas ;;3;03/07/2024;15
+Marcos Villarroya Ortiz de Zarate;No la volveré a comer;0;02/12/2024;4
+Nuria Otero ;;1;05/04/2024;1
+Angela Vicente ;No sabía bien;1;25/10/2024;20
+María Nieves Sabaté Sempere;No sabía bien;1;04/11/2024;7
+Francisco de la Fuente Rojas;No estaba buena;1;30/06/2024;7
+María Lázaro Arce;Bastante mala;0;03/11/2024;6
+Juana Antón Alonso;No estaba buena;2;19/02/2024;1
+Alexander Córcoles ;No me ha convencido;3;13/11/2024;20
+María Antonia Hossain Abad;;4;27/07/2024;24
+Nerea Esteban Sierra;Bastante mala;2;04/05/2024;4
+José Ramon Calero Jiménez;Bastante mala;4;28/03/2024;13
+José Ángel Moran Sanchis;Malísima;1;22/05/2024;6
+Ángeles Armas Ojeda;Malísima;3;20/10/2024;21
+Darío Arribas Andrés;No sabía bien;2;17/01/2024;10
+Marta Gago Vargas;Bastante mala;3;18/09/2024;8
+German Merino Castillo;No sabía bien;0;03/11/2024;4
+Gregorio Roig Expósito;No me ha convencido;1;12/01/2024;7
+Jesús Alemán Martin;;3;19/03/2024;5
+Miriam Roca Armas;No estaba buena;3;01/07/2024;25
+Juan Antonio Muñoz ;No me ha convencido;0;22/12/2024;24
+María Carmen Moro Ahmed;;4;13/05/2024;19
+Magdalena Bermejo Morcillo;No me ha gustado nada;4;09/05/2024;7
+Jesús Diez Hossain;Malísima;0;10/09/2024;12
+Juan Francisco Dris de Pablos;No me ha gustado nada;3;28/09/2024;1
+Javier Montes Fraile;No me ha gustado nada;2;19/09/2024;16
+Angela García Piñeiro;;3;10/07/2024;3
+Héctor Hamed Abad;No me ha convencido;4;28/05/2024;5
+Pau Marín Marín;No me ha convencido;4;11/04/2024;3
+María Dolores Romera ;No estaba buena;2;22/10/2024;10
+Cristina Barbero ;Bastante mala;4;21/11/2024;7
+Lorena Redondo Calero;Bastante mala;0;11/10/2024;8
+Gloria Montero López;Bastante mala;2;29/09/2024;10
+Miguel Ángel Torre ;No la volveré a comer;0;08/11/2024;20
+María Teresa Benítez Navarro;No la volveré a comer;0;21/04/2024;8
+Joaquín Arguelles ;Bastante mala;1;12/11/2024;12
+Ramon Mohamed Rojas;No estaba buena;2;20/05/2024;7
+Juan José Rovira Fuertes;No me ha convencido;3;18/12/2024;18
+Isabel Elizalde Arribas;No me ha gustado nada;4;12/03/2024;16
+María Teresa Vargas Moran;No me ha gustado nada;0;20/07/2024;5
+Ángeles Alquezar Acosta;Malísima;0;30/06/2024;20
+Alberto Blázquez ;Bastante mala;3;29/03/2024;7
+José Miguel Ortiz de Zarate Abselam;No sabía bien;0;24/12/2024;23
+Esteban Casado Soriano;No estaba buena;3;03/09/2024;13
+Paula Arias Cuervo;Malísima;4;13/01/2024;14
+Juan Manuel Lago Álvarez;Malísima;2;17/05/2024;23
+Marta Ortiz Vila;;2;15/06/2024;8
+Verónica Segura ;No estaba buena;0;18/01/2024;12
+Nerea Santiago ;;2;02/06/2024;21
+Beatriz Abad Maldonado;No me ha convencido;0;03/01/2024;1
+Alexandra Rodrigo Vaquero;Bastante mala;1;25/10/2024;4
+Rosario Rovira Silva;No la volveré a comer;0;23/11/2024;18
+Roció Sierra Salazar;No sabía bien;3;31/08/2024;15
+Francisca Zabalza Núñez;Malísima;2;20/02/2024;6
+María Antonia Comesaña Armendáriz;No la volveré a comer;2;21/10/2024;12
+Salvador Casal ;No me ha gustado nada;0;12/09/2024;19
+Aurora Rodenas ;;2;19/02/2024;14
+Jesús Rodríguez Sanchis;Malísima;1;26/11/2024;3
+Sara Casado Abdelkader;No me ha convencido;0;18/02/2024;1
+Martina Antón Giménez;Malísima;2;05/07/2024;9
+Enrique Armendáriz Rial;;0;18/11/2024;9
+Roció Maanan ;Malísima;2;28/02/2024;23
+Rosa María Guillen Sempere;;3;12/09/2024;7
+Noelia Revuelta Rojo;No la volveré a comer;0;26/11/2024;2
+José Antonio Rincón Sanchis;No me ha convencido;2;12/08/2024;8
+María Mora Pascual;No estaba buena;0;07/12/2024;22
+Eugenia Alarcón Abdeslam;No sabía bien;0;03/02/2024;22
+Luis Miguel Abselam ;Bastante mala;3;17/06/2024;11
+Sofia Ibáñez ;No me ha convencido;3;22/05/2024;6
+José Francisco Miranda Navarro;No sabía bien;3;04/03/2024;15
+Emilio Gallego Lázaro;No me ha gustado nada;4;27/09/2024;17
+Valentina Perdomo Requena;;4;08/03/2024;14
+Eva María Gutiérrez Tahiri;No sabía bien;3;27/04/2024;2
+Alexander Cacho ;No me ha gustado nada;1;04/02/2024;19
+Domingo Macho ;No sabía bien;2;23/08/2024;1
+Ana Belén Iglesias de Frutos;No me ha gustado nada;4;16/07/2024;22
+Francisca Gallego Collado;Bastante mala;3;11/10/2024;1
+José Manuel Román Montero;No sabía bien;1;09/11/2024;3
+Silvia Mimon ;No sabía bien;2;23/09/2024;12
+María Victoria Diaz Sánchez;Bastante mala;0;22/04/2024;3
+Adriana Hamed Garrido;No estaba buena;1;22/11/2024;16
+Blanca López Esparza;No me ha convencido;4;02/12/2024;5
+Silvia Gil Fuentes;No estaba buena;1;14/03/2024;5
+Juan Carlos Villar Pereira;Bastante mala;4;12/05/2024;12
+Silvia León Miralles;No estaba buena;2;11/07/2024;13
+Dolores Sempere San José;;2;23/03/2024;15
+Luisa Diez ;No me ha gustado nada;4;04/05/2024;12
+Begoña Román Ferrer;No sabía bien;2;22/08/2024;17
+Juan José Casal Morcillo;No estaba buena;2;26/04/2024;15
+Mariano Trujillo Marcos;Malísima;2;28/04/2024;11
+Eugenia Gallego Cuervo;No me ha convencido;1;01/08/2024;19
+Salvador Conde ;;2;29/10/2024;12
+José Ignacio Mimon Arribas;No estaba buena;3;20/11/2024;22
+Ana Isabel Villegas Santos;No la volveré a comer;0;26/04/2024;12
+Ignacio Rial Duran;;4;16/07/2024;12
+Xavier Fraile Blasco;No me ha convencido;0;11/06/2024;5
+Adriana Rial Zabalza;No la volveré a comer;2;06/04/2024;25
+Isaac Guillen Casanova;Bastante mala;2;04/04/2024;16
+Sara Bernal Chairi;No la volveré a comer;3;07/01/2024;7
+Concepción Paz Domenech;No la volveré a comer;4;15/02/2024;3
+Cristóbal Vara Escudero;;2;06/02/2024;1
+Alfredo Cruz ;No me ha convencido;4;16/01/2024;16
+Raúl Chairi ;Bastante mala;3;28/11/2024;9
+Jaime Expósito ;No la volveré a comer;1;25/06/2024;14
+Alfonso Guerrero Diego;;1;20/01/2024;3
+Guillermo Antolín ;No la volveré a comer;3;28/03/2024;19
+Sandra Angulo Juan;Malísima;0;26/07/2024;21
+Cristóbal Velasco Ballesteros;No me ha gustado nada;4;12/12/2024;16
+Julio Peña Navarro;Malísima;1;04/09/2024;11
+María Mercedes Gil Fernández;No sabía bien;2;23/03/2024;8
+Tomas Bernal Tébar;No estaba buena;3;21/12/2024;7
+Blanca Lizarraga Aparicio;No me ha convencido;2;26/11/2024;16
+Oscar Hossain ;No estaba buena;0;08/05/2024;19
+Isaac Garrido Luis;;4;06/09/2024;18
+Félix San Martin Benito;No me ha gustado nada;4;08/05/2024;15
