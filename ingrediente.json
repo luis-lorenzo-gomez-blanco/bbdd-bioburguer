@@ -1,0 +1,136 @@
+{
+	"table": "ingrediente",
+	"rows":
+	[
+		{
+			"id": 1,
+			"nombre": "Pan de hamburguesa",
+			"valor_calorico": 40
+		},
+		{
+			"id": 2,
+			"nombre": "Ternera 75gr",
+			"valor_calorico": 60
+		},
+		{
+			"id": 3,
+			"nombre": "Ternera 100gr",
+			"valor_calorico": 100
+		},
+		{
+			"id": 4,
+			"nombre": "Ternera 200gr",
+			"valor_calorico": 200
+		},
+		{
+			"id": 5,
+			"nombre": "Ternera 300gr",
+			"valor_calorico": 300
+		},
+		{
+			"id": 6,
+			"nombre": "Mezcla especial carnes 100gr",
+			"valor_calorico": 150
+		},
+		{
+			"id": 7,
+			"nombre": "Mezcla especial carnes 200gr",
+			"valor_calorico": 300
+		},
+		{
+			"id": 8,
+			"nombre": "Mezcla especial carnes 300gr",
+			"valor_calorico": 450
+		},
+		{
+			"id": 9,
+			"nombre": "Pollo marinado 75gr",
+			"valor_calorico": 75
+		},
+		{
+			"id": 10,
+			"nombre": "Pollo marinado 150gr",
+			"valor_calorico": 150
+		},
+		{
+			"id": 11,
+			"nombre": "Pollo empanado 150gr",
+			"valor_calorico": 175
+		},
+		{
+			"id": 12,
+			"nombre": "Masa vegetal 125gr",
+			"valor_calorico": 150
+		},
+		{
+			"id": 13,
+			"nombre": "Filete de pescado rebozado 100gr",
+			"valor_calorico": 200
+		},
+		{
+			"id": 14,
+			"nombre": "Carne de costilla 100gr",
+			"valor_calorico": 175
+		},
+		{
+			"id": 15,
+			"nombre": "Lámina de queso",
+			"valor_calorico": 30
+		},
+		{
+			"id": 16,
+			"nombre": "Lámina de queso cheddar",
+			"valor_calorico": 40
+		},
+		{
+			"id": 17,
+			"nombre": "Rulo de queso de cabra",
+			"valor_calorico": 50
+		},
+		{
+			"id": 18,
+			"nombre": "Cebolla",
+			"valor_calorico": 15
+		},
+		{
+			"id": 19,
+			"nombre": "Cebolla caramelizada",
+			"valor_calorico": 50
+		},
+		{
+			"id": 20,
+			"nombre": "Cebolla frita",
+			"valor_calorico": 40
+		},
+		{
+			"id": 21,
+			"nombre": "Lechuga",
+			"valor_calorico": 5
+		},
+		{
+			"id": 22,
+			"nombre": "Tomate",
+			"valor_calorico": 10
+		},
+		{
+			"id": 23,
+			"nombre": "Pepinillos",
+			"valor_calorico": 35
+		},
+		{
+			"id": 24,
+			"nombre": "Salsa especial",
+			"valor_calorico": 30
+		},
+		{
+			"id": 25,
+			"nombre": "Bacon",
+			"valor_calorico": 20
+		},
+		{
+			"id": 26,
+			"nombre": "Lámina alternativa queso",
+			"valor_calorico": 30
+		}
+	]
+}
