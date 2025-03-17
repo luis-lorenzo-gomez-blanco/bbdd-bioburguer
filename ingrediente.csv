@@ -1,0 +1,27 @@
+﻿id,nombre,valor_calorico
+1,Pan de hamburguesa,40
+2,Ternera 75gr,60
+3,Ternera 100gr,100
+4,Ternera 200gr,200
+5,Ternera 300gr,300
+6,Mezcla especial carnes 100gr,150
+7,Mezcla especial carnes 200gr,300
+8,Mezcla especial carnes 300gr,450
+9,Pollo marinado 75gr,75
+10,Pollo marinado 150gr,150
+11,Pollo empanado 150gr,175
+12,Masa vegetal 125gr,150
+13,Filete de pescado rebozado 100gr,200
+14,Carne de costilla 100gr,175
+15,Lámina de queso,30
+16,Lámina de queso cheddar,40
+17,Rulo de queso de cabra,50
+18,Cebolla,15
+19,Cebolla caramelizada,50
+20,Cebolla frita,40
+21,Lechuga,5
+22,Tomate,10
+23,Pepinillos,35
+24,Salsa especial,30
+25,Bacon,20
+26,Lámina alternativa queso,30
