@@ -1,3 +1,5 @@
+USE bioburguer;
+
 DELETE FROM ingrediente;
 INSERT INTO ingrediente (id, nombre, valor_calorico) VALUES
   (1, 'Pan de hamburguesa', 40),
