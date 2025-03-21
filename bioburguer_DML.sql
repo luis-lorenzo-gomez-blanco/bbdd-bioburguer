@@ -1,5 +1,21 @@
 USE bioburguer;
 
+DELETE FROM hamburgueseria;
+INSERT INTO hamburgueseria (id, nombre, pais_origen) VALUES 
+  (1, 'Burguer King', 'EEUU'),
+  (2, 'McDonald\'s', 'EEUU'),
+  (3, 'TGB', 'España'),
+  (4, 'Goiko Grill', 'España'),
+  (5, 'Carl\'s Jr.', 'EEUU');
+
+DELETE FROM valoracion_hamburgueseria;
+INSERT INTO valoracion_hamburgueseria (posicion, valoracion, id_hamburgueseria) VALUES
+  (1, 0.00, 1),
+  (2, 0.00, 2),
+  (3, 0.00, 3),
+  (4, 0.00, 4),
+  (5, 0.00, 5);
+
 DELETE FROM ingrediente;
 INSERT INTO ingrediente (id, nombre, valor_calorico) VALUES
   (1, 'Pan de hamburguesa', 40),
@@ -1201,19 +1217,3 @@ INSERT INTO valoracion_hamburguesa (id, nombre_cliente, opinion, valoracion, fec
 	(998, 'Oscar Hossain ', 'No estaba buena', 0, '2024-05-08', 19),
 	(999, 'Isaac Garrido Luis', '', 4, '2024-09-06', 18),
 	(1000, 'Félix San Martin Benito', 'No me ha gustado nada', 4, '2024-05-08', 15);
-
-DELETE FROM hamburgueseria;
-INSERT INTO hamburgueseria (id, nombre, pais_origen) VALUES 
-  (1, 'Burguer King', 'EEUU'),
-  (2, 'McDonald\'s', 'EEUU'),
-  (3, 'TGB', 'España'),
-  (4, 'Goiko Grill', 'España'),
-  (5, 'Carl\'s Jr.', 'EEUU');
-
-DELETE FROM valoracion_hamburgueseria;
-INSERT INTO valoracion_hamburgueseria (posicion, valoracion, id_hamburgueseria) VALUES
-  (1, 0.00, 1),
-  (2, 0.00, 2),
-  (3, 0.00, 3),
-  (4, 0.00, 4),
-  (5, 0.00, 5);
