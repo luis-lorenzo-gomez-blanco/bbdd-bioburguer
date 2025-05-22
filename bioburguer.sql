@@ -85,11 +85,11 @@ INSERT INTO hamburgueseria (id, nombre, pais_origen) VALUES
 
 DELETE FROM valoracion_hamburgueseria;
 INSERT INTO valoracion_hamburgueseria (posicion, valoracion, id_hamburgueseria) VALUES
-  (1, 0.00, 1),
-  (2, 0.00, 2),
-  (3, 0.00, 3),
-  (4, 0.00, 4),
-  (5, 0.00, 5);
+  (1, 10, 1),
+  (2, 8, 2),
+  (3, 6.14, 3),
+  (4, 4, 4),
+  (5, 2, 5);
 
 DELETE FROM ingrediente;
 INSERT INTO ingrediente (id, nombre, valor_calorico) VALUES
